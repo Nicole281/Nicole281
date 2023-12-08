@@ -6,7 +6,7 @@ Busco ampliar mi campo en el mundo del desarrollo web.
 
  <a href="https://github.com/Nicole281/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicole281&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a>
 
-## 💻 Software y herramientas
+## 💻 Herramientas
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
