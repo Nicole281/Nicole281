@@ -1,3 +1,6 @@
+<p align="center"><a href="https://Nicole281.github.io"><img width="80%" alt="Hola, Soy Nicole " src="./assets/gh-readme-header.png" /></a></p>
+
+
 ### Hola! Nicole Solano Gómez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=4B0082&center=true&vCenter=true&width=500&lines=Recorrido+de+una+desarrolladora+web;💻🚀)](https://git.io/typing-svg)
 
