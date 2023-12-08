@@ -6,7 +6,7 @@
 Amante de la naturaleza y de la programación. Mi sed de conocimiento es un componente clave de mi viaje. Siempre ansiosa por seguir aprendiendo y creciendo! 💡📚
 Busco ampliar mi campo en el mundo del desarrollo web.
 
- ❤️ el fascinante mundo del desarrollo frontend ha capturado mi atención. 
+ ❤️mi enfoque abraza todas las facetas del proceso, desde el diseño visual hasta la ejecución técnica. 
 
  ## LinkedIn 🌐
  <a href="https://www.linkedin.com/in/nicole-solano-g/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
