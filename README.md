@@ -6,6 +6,15 @@ Busco ampliar mi campo en el mundo del desarrollo web.
 
  <a href="https://github.com/Nicole281/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicole281&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a>
 
+## 💻 Software y herramientas
+<p>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a> 
+</p>
+
 <!--
 **Nicole281/Nicole281** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
