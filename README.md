@@ -1,4 +1,3 @@
-<p img width="80%" alt="Hello, I'm Nicole.!" src="./assets/gh-readme-header.png" /></p>
 
 
 ### Hola! Nicole Solano Gómez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -6,6 +5,11 @@
 
 Amante de la naturaleza y de la programación. Mi sed de conocimiento es un componente clave de mi viaje. Siempre ansiosa por seguir aprendiendo y creciendo! 💡📚
 Busco ampliar mi campo en el mundo del desarrollo web.
+
+ ❤️ el fascinante mundo del desarrollo frontend ha capturado mi atención. 
+
+ ## LinkedIn 🌐
+ <a href="https://www.linkedin.com/in/nicole-solano-g/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
  <a href="https://github.com/Nicole281/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicole281&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a>
 
