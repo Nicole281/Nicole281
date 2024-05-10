@@ -11,7 +11,6 @@ Busco ampliar mi campo en el mundo del desarrollo web.
  ## LinkedIn 🌐
  <a href="https://www.linkedin.com/in/nicole-solano-g/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
- <a href="https://github.com/Nicole281/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicole281&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a>
 
 ## 💻 Herramientas
 <p>
